@@ -32,26 +32,6 @@ You can **deploy these contracts on-chain** using either:
 
 ---
 
-### ⚙️ Method 2: Deploy Locally Using Hardhat  
-
-1️⃣ Install **Node.js** and **npm** (if not installed).  
-2️⃣ Install **Hardhat**:  
-   ```bash
-   npm install --save-dev hardhat
-   ```  
-3️⃣ Create a new Hardhat project:  
-   ```bash
-   npx hardhat
-   ```  
-4️⃣ Add your Solidity contract inside the **`contracts/`** folder.  
-5️⃣ Deploy using a simple script:  
-   ```bash
-   npx hardhat run scripts/deploy.js --network goerli
-   ```  
-6️⃣ Your contract is live on testnet! 🎉  
-
----
-
 ### 🚀 Method 2: Deploying Solidity Smart Contracts Offline  
 
 If you want to deploy a Solidity smart contract **without using online tools like Remix**, you can use one of the following **offline** methods:  
