@@ -52,19 +52,7 @@ You can **deploy these contracts on-chain** using either:
 
 ---
 
-## 💡 Need Help?  
-
-If you have any **questions or suggestions**, feel free to open an **issue** or contribute to the repo! Let's make Solidity development easier for everyone. 🚀  
-
-Happy coding! 👨‍💻🔥  
-
-
-
-Sure! Here’s a **detailed guide** covering all major **offline** methods for deploying a Solidity smart contract. I'll include **Hardhat**, **Foundry**, and **Truffle**, so beginners can pick the one that works best for them.  
-
----
-
-# 🚀 Deploying Solidity Smart Contracts Offline  
+### 🚀 Method 2: Deploying Solidity Smart Contracts Offline  
 
 If you want to deploy a Solidity smart contract **without using online tools like Remix**, you can use one of the following **offline** methods:  
 
@@ -272,4 +260,10 @@ truffle migrate --network goerli
 🚀 **If you’re a beginner, start with Hardhat!**  
 For speed and advanced features, **use Foundry**.  
 
-💡 Have questions? Open an **issue** on GitHub!  
+---
+
+## 💡 Need Help?  
+
+If you have any **questions or suggestions**, feel free to open an **issue** or contribute to the repo! Let's make Solidity development easier for everyone. 🚀  
+
+Happy coding! 👨‍💻🔥  
